@@ -1,0 +1,27 @@
+.header {
+    background-color: 	#708090;
+    text-align: center;}
+  
+  .about-me {
+    color: white;
+    font-size: 20px;
+    opacity: 1;
+}
+  
+  .title {
+    color: #11999C;
+    font-weight: bold; 
+  }
+  
+  ul {
+    background-color: #FF69B4;
+  }
+
+  h1 {
+    color: Azure;
+  }
+  
+  body {
+   background-color: white;
+    font-family: Georgia;
+  }
